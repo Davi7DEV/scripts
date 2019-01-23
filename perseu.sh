@@ -31,8 +31,6 @@ echo ""
 #ARP VAI MOSTRAR OS IP'S ON/OFF
 echo "ARP SCAN"
 arp
-sleep 10;
-arp -a
 echo ""
 echo  " \033[01;32mARP FINALIZADO\033[01;37m"
 echo " "
