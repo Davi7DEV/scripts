@@ -7,7 +7,5 @@ git clone https://github.com/offensive-security/exploitdb.git
 pkg install nmap
 pkg install gcc
 pkg install lua
-chmod +x perseu.sh
-./perseu.sh
 
 echo "FINALIZADO"
