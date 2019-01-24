@@ -1,3 +1,4 @@
+Teste on TERMUX
 Script feito para scanear e procurar exploit via rede interna.
 
 COMO USAR:
